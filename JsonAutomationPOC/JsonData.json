@@ -1,0 +1,78 @@
+{
+   "courses":[
+      {
+         "course":"DEVOPS",
+         "duration":1,
+         "courseId":1
+      },
+      {
+         "course":"Automation",
+         "duration":1.5,
+         "courseId":2
+      },
+      {
+         "course":"Backend Java Development",
+         "duration":2,
+         "courseId":3
+      },
+      {
+         "course":"Frontend Java Development",
+         "duration":2,
+         "courseId":4
+      }
+   ],
+   "users":[
+      {
+         "name":"user1",
+         "eid":12351,
+         "address":{
+            "address1":"H.No.-112, Street 12B",
+            "city":"New Delhi",
+            "state":"Delhi",
+            "zipCode":11005,
+            "country":"India"
+         },
+         "hobby":"Cricket",
+         "courseId":2
+      },
+      {
+         "name":"user2",
+         "eid":1234,
+         "Address":{
+            "address1":"H.No.-137, Street 17A",
+            "city":"Gurugram",
+            "state":"Haryana",
+            "zipCode":120005,
+            "country":"India"
+         },
+         "hobby":"Badminton",
+         "courseId":4
+      },
+      {
+         "name":"user3",
+         "eid":12357,
+         "address":{
+            "address1":"H.No.-131, Street 9B",
+            "city":"Noida",
+            "state":"UP",
+            "zipCode":170005,
+            "country":"India"
+         },
+         "hobby":"Football",
+         "courseId":3
+      },
+      {
+         "name":"user4",
+         "eid":13335,
+         "address":{
+            "address1":"H.No.-812, Street 19C",
+            "city":"Bengaluru",
+            "state":"Karnataka",
+            "zipCode":190007,
+            "country":"India"
+         },
+         "hobby":"Cricket",
+         "courseId":5
+      }
+   ]
+}
